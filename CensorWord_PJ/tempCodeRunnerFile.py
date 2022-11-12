@@ -1,0 +1,2 @@
+
+                listText.append(splall[i]+",-")
